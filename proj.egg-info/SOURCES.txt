@@ -1,8 +1,0 @@
-LICENSE
-main.py
-pyproject.toml
-proj.egg-info/PKG-INFO
-proj.egg-info/SOURCES.txt
-proj.egg-info/dependency_links.txt
-proj.egg-info/requires.txt
-proj.egg-info/top_level.txt
